@@ -1,0 +1,7 @@
+Nome: Nissan Silvia S15
+Marca: Nissan
+Data de Produção: Entre 1999 e 2002
+Cor: Amarelo
+Tração: Traseira 
+Quantos Cavalos: Entre 165 a 250
+Motor Original: 2.0L aspirado (SR20DE)
